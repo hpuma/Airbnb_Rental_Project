@@ -1,0 +1,253 @@
+,Address,Rent,Bed,Baths,Borough,Zip
+0,93 Leonard St ,16000,4 ,3.0,Manhattan, 10013
+1,97 Wooster St ,8250,1 ,2.0,Manhattan, 10012
+2,614 W 148th St ,2200,Studio,1.0,Manhattan, 10031
+3,116 W 14th St ,13000,3 ,2.0,Manhattan, 10011
+4,226 E 68th St ,55000,5 ,8.0,Manhattan, 10065
+5,66 9th Ave ,32000,4 ,4.0,Manhattan, 10011
+6,354 Broadway ,24990,3 ,3.0,Manhattan, 10013
+7,237 Lafayette St ,11000,2 ,2.0,Manhattan, 10012
+8,161 Grand St ,16500,2 ,3.0,Manhattan, 10013
+9,90 Prince St ,10000,2 ,2.0,Manhattan, 10012
+10,19 Warren St ,11500,3 ,2.0,Manhattan, 10007
+11,525 Broome St ,23000,4 ,4.0,Manhattan, 10013
+12,324 W 47th St ,3785,2 ,1.0,Manhattan, 10036
+13,4 Hamilton Terrace ,13500,4 ,4.0,Manhattan, 10031
+14,43 Wooster St ,16250,2 ,2.0,Manhattan, 10013
+15,95 Franklin St ,16500,3 ,3.0,Manhattan, 10013
+16,23 Cornelia St ,45000,4 ,7.0,Manhattan, 10014
+17,65 W 13th St ,27500,4 ,3.0,Manhattan, 10011
+18,44 Laight St ,30000,3 ,3.0,Manhattan, 10013
+20,38 E 21st St ,9500,4 ,2.0,Manhattan, 10010
+21,245 7th Ave ,12500,2 ,2.5,Manhattan, 10001
+22,106 Central Park S ,26000,3 ,3.5,Manhattan, 10019
+23,336 E 5th St ,2799,1 ,1.0,Manhattan, 10003
+24,135 West 4th Street ,12000,2 ,2.0,Manhattan, 10012
+25,25 Adrian Ave ,1300,1 ,1.0,Manhattan, 10463
+26,290 West End Ave ,9400,3 ,3.0,Manhattan, 10023
+27,432 Park Ave ,30000,2 ,2.5,Manhattan, 10022
+28,563 W 144th St ,3000,3 ,1.0,Manhattan, 10031
+29,520 W 43rd St ,6780,2 ,2.0,Manhattan, 10036
+30,134 Orchard St ,4295,2 ,1.0,Manhattan, 10002
+31,140 E 46th St ,3500,1 ,1.0,Manhattan, 10017
+32,1591 2nd Ave ,2700,Studio,1.0,Manhattan, 10028
+33,432 E 13th St ,3495,1 ,1.0,Manhattan, 10009
+34,380 E 10th St ,3495,1 ,1.0,Manhattan, 10009
+35,521 E 5th St ,4895,2 ,1.0,Manhattan, 10009
+36,321 E 91st St ,3200,1 ,1.0,Manhattan, 10128
+37,329 E 116th St ,2400,3 ,1.0,Manhattan, 10029
+38,308 E 81st St ,2700,Studio,1.0,Manhattan, 10028
+40,77 E 3rd St ,3499,2 ,1.0,Manhattan, 10003
+41,225 W 23rd St ,3300,1 ,1.0,Manhattan, 10011
+42,301 E 21st St ,3900,1 ,1.0,Manhattan, 10010
+43,190 E 7th St ,5800,3 ,1.0,Manhattan, 10009
+45,319 E 8th St ,4150,2 ,1.0,Manhattan, 10009
+46,150 E 34th St ,5445,1 ,1.0,Manhattan, 10016
+47,5 Tudor City Pl ,2350,1 ,1.0,Manhattan, 10017
+48,321 W 96th St ,6800,3 ,3.0,Manhattan, 10025
+49,370 E 69th St ,1650,Studio,1.0,Manhattan, 10021
+50,118 E 102nd St ,3100,Studio,1.0,Manhattan, 10029
+51,1469 5th Ave ,3000,3 ,1.0,Manhattan, 10035
+52,273 Mott St ,2850,1 ,1.0,Manhattan, 10012
+53,30 River Rd ,4125,2 ,2.0,Manhattan, 10044
+54,330 E 109th St ,4500,1 ,1.0,Manhattan, 10029
+55,412 W 36th St. ,5300,2 ,1.0,Manhattan, 10018
+57,152 Reade St ,50000,5 ,5.5,Manhattan, 10013
+58,38 Prince St ,75000,7 ,8.5,Manhattan, 10012
+59,354 E 74th St ,12750,3 ,3.0,Manhattan, 10021
+60,27 Harrison St ,28500,4 ,4.5,Manhattan, 10013
+61,148 E 63rd St ,19500,4 ,5.0,Manhattan, 10065
+62,217 E 61st St ,19750,5 ,4.5,Manhattan, 10065
+63,148 W 132nd St ,10950,5 ,5.0,Manhattan, 10027
+64,223 E 49th St ,25000,4 ,4.5,Manhattan, 10017
+65,150 E 65th St ,17500,4 ,4.0,Manhattan, 10065
+66,332 E 69th St ,15575,5 ,3.5,Manhattan, 10021
+67,442 E 58th St ,16000,4 ,3.0,Manhattan, 10022
+68,455 W 24th St ,25950,4 ,3.0,Manhattan, 10011
+69,137 Manhattan Ave ,11538,4 ,2.5,Manhattan, 10025
+70,120 W 87th St ,19950,5 ,3.5,Manhattan, 10024
+71,208 E 72nd St ,24800,5 ,4.5,Manhattan, 10021
+72,163 E 82nd St ,75000,5 ,6.5,Manhattan, 10028
+74,40 Leroy St ,40000,4 ,3.5,Manhattan, 10014
+76,37-55-55 73rd St ,2100,2 ,1.0,Manhattan, 11372
+77,346 E 18th St ,6995,3 ,2.0,Manhattan, 10003
+78,365 W 20th St ,4750,1 ,1.0,Manhattan, 10011
+79,2106 Arthur Ave  ,2299,2 ,1.0,The Bronx,10457
+80,1965 Hobart Ave ,2100,2 ,1.0,The Bronx,10465
+81,3132 Buhre Ave  ,1850,1 ,1.0,The Bronx,10461
+82,920 Hollywood Ave  ,2300,3 ,2.0,The Bronx,10465
+83,614 W 148th St,2200,Studio,1.0,The Bronx,10031
+84,4 Hamilton Terrace,13500,4 ,4.0,The Bronx,10031
+85,1436 Parker St  ,2700,3 ,1.0,The Bronx,10462
+86,1965 Hobart Ave  ,2100,2 ,1.0,The Bronx,10461
+87,620-622 Pelhamdale Ave Village of Pelham,1995,1 ,1.0,The Bronx,10803
+88,2892 E 195th St  ,2900,3 ,1.0,The Bronx,10461
+89,25 Adrian Ave,1300,1 ,1.0,The Bronx,10463
+90,2854 E 194th St  ,2300,2 ,1.0,The Bronx,10461
+91,237 Buttrick Ave  ,2900,3 ,2.0,The Bronx,10465
+92,563 W 144th St,3000,3 ,1.0,The Bronx,10031
+93,1927 Wallace Ave  ,2600,3 ,1.0,The Bronx,10462
+94,1204 Crosby Ave  ,2800,3 ,2.0,The Bronx,10461
+96,329 E 166th St,2400,3 ,1.0,The Bronx,10029
+97,1981 Gildersleeve Ave  ,3200,3 ,1.0,The Bronx,10473
+98,345 E 234th St  ,3100,3 ,2.0,The Bronx,10470
+99,506 White Plains Rd  ,2500,4 ,2.0,The Bronx,10473
+100,1469 5th Ave,3000,3 ,1.0,The Bronx,10035
+101,1423 Noble Ave  ,1715,1 ,1.0,The Bronx,10472
+102,1171 Fox St ,2912,3 ,1.0,The Bronx,10459
+103,275 College Rd ,6850,5 ,3.0,The Bronx,10471
+104,2710 Edgehill Ave ,4900,4 ,3.0,The Bronx,10463
+105,1152 E 225th St ,1850,1 ,1.0,The Bronx,10466
+106,3603 Bainbridge Ave ,2700,3 ,1.5,The Bronx,10467
+107,405 W 263rd St ,3200,3 ,1.0,The Bronx,10471
+108,1920 Yates Ave ,2300,3 ,2.5,The Bronx,10461
+109,4722 Richardson Ave ,1300,1 ,1.0,The Bronx,10470
+110,5932 Liebig Ave  ,4500,4 ,2.0,The Bronx,10471
+111,3397 Sedgwick Ave  ,2550,2 ,1.0,The Bronx,10463
+112,247 Quincy Ave  ,1700,1 ,1.0,The Bronx,10465
+113,992 McLean Ave Yonkers,2600,3 ,1.0,The Bronx,10704
+114,409 Howe Ave  ,3600,5 ,2.0,The Bronx,10473
+115,796 E 165th St  ,2900,3 ,1.0,The Bronx,10456
+116,148 W 132nd St,10950,5 ,5.0,The Bronx,10027
+117,154-37 Riverside Dr,5000,4 ,3.0,The Bronx,11357
+118,185 Lenox Ave NewYorkCity,3090,1 ,1.0,The Bronx,10026
+119,551 E 137th St  ,3500,Studio,2.0,The Bronx,10454
+120,3600 Tibbett Ave  ,4995,3 ,2.5,The Bronx,10463
+121,6122 Delafield Ave  ,4400,3 ,2.5,The Bronx,10471
+122,81 Rochelle St  ,4999,2 ,2.0,The Bronx,10464
+123,258A Longstreet Ave  ,4000,3 ,2.0,The Bronx,10465
+124,1510 Jarvis Ave  ,2400,3 ,2.0,The Bronx,10461
+125,885 E 170th St  ,4200,3 ,2.0,The Bronx,10459
+126,158-40 Powells Cove Blvd,2100,2 ,1.0,The Bronx,11357
+127,4 Peace St BRONX,10998,5 ,4.0,The Bronx,10464
+128,1358 University Ave  ,2300,2 ,1.0,The Bronx,10452
+129,78 Oak Ln Pelham Manor,5600,3 ,2.0,The Bronx,10803
+130,2217 Wallace Ave  ,1900,1 ,1.0,The Bronx,10467
+131,50 N 10th Ave Mount Vernon,1700,1 ,1.0,The Bronx,10550
+132,133 Sterling Ave Yonkers,3250,3 ,1.0,The Bronx,10704
+156,77-20 78th St ,2300,2 ,1.0,Queens, 11385
+157,852 Cypress Ave ,2875,Studio,1.0,Queens, 11385
+158,83-44 Lefferts Blvd ,2000,1 ,1.0,Queens, 11415
+159,91-25 175th St ,900,1 ,1.0,Queens, 11432
+160,131 B121st St ,2400,2 ,1.0,Queens, 11694
+161,173-57 104th Ave ,2500,2 ,1.0,Queens, 11433
+162,66-17 110th St ,3500,4 ,3.0,Queens, 11375
+163,82-12 251st St ,3500,4 ,2.0,Queens, 11426
+164,144-21 182nd Pl ,3200,3 ,2.0,Queens, 11413
+165,173-18 93rd Ave ,2800,3 ,1.0,Queens, 11433
+166,25-87-87 37th St ,2400,1 ,1.0,Queens, 11103
+167,43-08 25th Ave ,2000,2 ,1.0,Queens, 11103
+168,69-1 Loubet St ,3995,3 ,2.0,Queens, 11375
+169,29-11 200th St ,2000,2 ,1.0,Queens, 11360
+170,66-76-76 69th St ,2995,3 ,2.0,Queens, 11379
+171,186-11-186121 121st Ave ,1500,1 ,1.0,Queens, 11412
+172,41-12 66th St ,1800,1 ,1.0,Queens, 11377
+173,90-22 70th Dr ,2300,2 ,1.0,Queens, 11375
+174,120 B 26th St ,2500,2 ,2.0,Queens, 11691
+175,80-51 160th St ,3000,3 ,1.0,Queens, 11432
+176,112-20 201st St ,800,1 ,1.0,Queens, 11412
+177,41-07 47th Ave ,2060,1 ,1.0,Queens, 11104
+178,37-59-59 61st St ,3000,2 ,2.0,Queens, 11377
+179,244-31 88th Rd ,1150,2 ,3.0,Queens, 11426
+181,0 Sunnyside Ave,4800,4 ,3.0,Queens,
+182,73-15 72nd St ,2400,2 ,1.0,Queens, 11385
+183,68-18 53rd Rd ,2800,3 ,1.0,Queens, 11378
+184,104-34-104219 219th St ,3500,4 ,2.0,Queens, 11429
+185,5815 58th Ave ,3000,3 ,1.0,Queens, 11378
+186,13-12 Michael Ct ,4200,2 ,2.5,Queens, 11360
+187,21-64-64 29th St ,1900,1 ,1.0,Queens, 11105
+188,66-59-66-71 71st St ,2600,3 ,1.0,Queens, 11379
+189,39-40-40 46th St ,4000,2 ,1.0,Queens, 11104
+190,115-37-140 140th St ,2100,2 ,1.0,Queens, 11436
+191,1878 Putnam Ave ,3800,4 ,2.5,Queens, 11385
+192,108-36 154th St ,3800,3 ,1.0,Queens, 11433
+193,14-52-52 119th St ,2600,3 ,1.0,Queens, 11356
+194,661 Nasby Pl ,3188,3 ,2.0,Queens, 11691
+195,59-23 71st Ave ,4000,4 ,2.5,Queens, 11385
+196,157-60 21st Ave ,2400,3 ,1.0,Queens, 11357
+197,763 Seneca Ave ,3368,4 ,1.5,Queens, 11385
+198,22-17 Steinway St ,2200,2 ,1.0,Queens, 11105
+199,22-56-56 38th St ,1800,1 ,1.0,Queens, 11105
+200,149-47 259th St ,3150,3 ,2.0,Queens, 11422
+201,156- 12-156-78 78th St ,2100,2 ,1.0,Queens, 11414
+202,78-52 85th St ,2850,3 ,1.0,Queens, 11385
+203,61-01 56th Dr ,2950,3 ,1.0,Queens, 11378
+204,59-25 71st Ave ,3895,3 ,2.5,Queens, 11385
+205,146-23 223rd St ,2700,3 ,1.5,Queens, 11413
+206,23-16 28th Ave ,2150,1 ,1.0,Queens, 11102
+207,62-70 Fresh Pond Rd ,2675,2 ,1.0,Queens, 11385
+208,233-04 Seward Ave ,2600,3 ,2.0,Queens, 11427
+209,761 Seneca Ave ,3368,3 ,1.5,Queens, 11385
+210,144-36 222nd St ,3200,4 ,2.0,Queens, 11413
+211,108-50 62nd Dr ,3200,3 ,2.0,Queens, 11375
+212,78-73 81st St ,2600,3 ,2.0,Queens, 11385
+213,122-23 161st Pl ,2699,3 ,1.0,Queens, 11434
+214,78-50 79th Ln ,2400,2 ,1.0,Queens, 11385
+215,74-25 62nd St ,2400,2 ,1.0,Queens, 11385
+216,193-47 Salerno Ave ,4795,3 ,2.0,Queens, 11423
+217,81-33 169th St ,4800,4 ,1.5,Queens, 11432
+218,152-14 84th Dr ,2495,3 ,1.0,Queens, 11432
+219,14-31 Pinson St ,3100,3 ,2.0,Queens, 11691
+220,86-09 90th St ,4200,3 ,1.0,Queens, 11421
+221,62-65-65 60th Ave ,3500,3 ,1.5,Queens, 11378
+222,154-37 Riverside Dr ,5000,4 ,3.0,Queens, 11357
+223,114-02 Jamaica Ave ,3950,Studio,1.0,Queens, 11418
+224,80-40 266th St ,5000,5 ,3.0,Queens, 11004
+225,217-2 110th Rd ,2500,1 ,1.0,Queens, 11429
+226,342 B 147 St ,3600,2 ,1.0,Queens, 11694
+227,159-17 Meyer Ave ,7000,Studio,2.0,Queens, 11433
+228,89-29 239th St ,2700,2 ,2.0,Queens, 11426
+229,211-22-211-45 45th Dr ,2350,3 ,2.0,Queens, 11361
+230,85-64 113th St ,2200,2 ,1.0,Queens, 11418
+231,60-67-67 71st Ave ,2700,3 ,1.0,Queens, 11385
+232,19-26-26 77th St ,3400,3 ,2.0,Queens, 11370
+233,324 Beach 15th St ,2900,3 ,1.0,Queens, 11691
+234,253-40 87th Dr ,3000,3 ,2.0,Queens, 11426
+235,39-46-46 57th St ,3600,3 ,1.0,Queens, 11377
+236,87-35 257th St ,2500,3 ,1.0,Queens, 11001
+237,77-26-77-81 81st St ,2300,2 ,1.0,Queens, 11385
+238,34-51-51 57th St ,2980,3 ,2.0,Queens, 11377
+239,166-44 25th Ave ,2200,2 ,1.0,Queens, 11357
+240,240-40 70th Ave ,2950,3 ,2.0,Queens, 11362
+241,89-51 241st St ,2500,3 ,1.0,Queens, 11426
+242,111-11 76th Dr ,7500,3 ,3.0,Queens, 11375
+243,216-08 Jamaica Ave ,1800,2 ,1.0,Queens, 11428
+244,2-41 Beach 118th St ,3400,4 ,2.0,Queens, 11694
+245,105-31 Liberty Ave ,1950,2 ,1.0,Queens, 11417
+246,255-16 85th Ave ,4000,5 ,2.0,Queens, 11001
+247,130 Prospect St ,3500,6 ,3.0,Staten Island, 10304
+248,61 Furness Pl ,1500,1 ,1.5,Staten Island, 10314
+249,94 8 St ,3000,3 ,2.5,Staten Island, 10306
+250,491 Ridgewood Ave ,3200,3 ,3.0,Staten Island, 10312
+251,396 Garrison Ave ,2700,4 ,3.0,Staten Island, 10314
+253,164 Graham Ave ,1525,1 ,1.0,Staten Island, 10314
+254,86 Glenwood Ave ,1600,1 ,1.0,Staten Island, 10301
+255,0 Sheldon Ave ,1550,1 ,1.0,Staten Island, 10312
+256,139 Bionia Ave ,2450,3 ,1.0,Staten Island, 10305
+257,71 Renee Pl ,3300,3 ,2.0,Staten Island, 10314
+258,40A Wolkoff Ln ,3000,3 ,2.0,Staten Island, 10303
+260,131 Alberta Ave ,1600,1 ,1.0,Staten Island, 10314
+303,175 Skillman Ave ,4500,1 ,1.0,Brooklyn,11211
+304,524 Ocean View Ave ,3415,2 ,2.0,Brooklyn,11235
+305,335 Remsen Ave ,2595,2 ,1.0,Brooklyn,11212
+306,10 Orient Ave ,4000,1 ,1.0,Brooklyn,11211
+307,24 Lefferts Ave ,3176,3 ,1.0,Brooklyn,11225
+308,3405 Farragut Rd ,2000,Studio,1.0,Brooklyn,11210
+309,919 Schenck Ave ,3500,3 ,1.5,Brooklyn,11207
+310,1669 Flatbush Ave ,900,1 ,1.0,Brooklyn,11210
+311,0 Sunnyside Ave ,4800,4 ,3.0,Brooklyn,11207
+312,25 Washington St ,4511,1 ,1.0,Brooklyn,11201
+313,629 E 102nd St ,2600,3 ,2.0,Brooklyn,11236
+314,25 Parade Pl ,2850,1 ,1.0,Brooklyn,11226
+315,2602 Tilden Ave ,2000,1 ,4.0,Brooklyn,11226
+316,1063 Bedford Ave ,3100,2 ,1.0,Brooklyn,11216
+317,325 Kent Ave ,3370,1 ,1.0,Brooklyn,11249
+318,223 Chauncey St ,1900,Studio,1.0,Brooklyn,11233
+319,512 Bainbridge St. ,2900,1 ,1.0,Brooklyn,11233
+320,25 Fayette St ,1225,3 ,2.5,Brooklyn,11206
+321,196 Buffalo Ave ,1500,1 ,1.0,Brooklyn,11213
+322,1369 St Johns Pl ,2350,2 ,1.0,Brooklyn,11213
+323,469 Ave Y ,3800,3 ,2.0,Brooklyn,11223
+324,"852 Cypress Ave Queens, ",2875,Studio,1.0,Brooklyn,
+326,460 E 92nd St ,3200,3 ,1.0,Brooklyn,11212
+327,3701 Nautilus Ave ,4000,3 ,1.0,Brooklyn,11224
