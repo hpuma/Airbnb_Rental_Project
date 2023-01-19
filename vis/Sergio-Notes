@@ -1,4 +1,0 @@
-12/20/22
-When comparing the inside airbnb dataframe to others using zip codes, the merging or concatting of the dataframes needs to be ammended in a way so that when the merge encounters a zipcode in the zillow df for instance that doesn't exist in the airbnb df, it captures/records that zipcode and enters a 0 for the count of airbnbs for that zipcode. The way it's currently scripted on the merge will only grab zipcodes that match in both dataframes. Bronx for instance only has 5 zip codes I believe at the moment. So I cocked it up somewhere, and need to go back and find out where.
-
-Also the current merging with the acs data, essentially eliminates all the years prior to 2015 since that's the earlierst data we currently have from airbnb
